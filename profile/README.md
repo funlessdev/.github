@@ -10,7 +10,7 @@ It combines the power of the Beam and its actor programming model with the speed
 We aim to make it really easy to deploy and use the platform over a number of solutions such as Kubernetes, Nomad and standalone deployments, 
 all through simple commands of our CLI.
 
-To try it out, visit [funless.dev](https://funless.dev).
+To try it out, visit [funless.dev](https://funless.dev) (TBD).
 
 We are just getting started and any contribution is welcome 😄
 
