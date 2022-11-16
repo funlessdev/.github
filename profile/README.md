@@ -1,16 +1,14 @@
 ## Welcome to a new FaaS!
 
-FunLess is a new generation, research-driven serverless platform. 
+FunLess is a new generation, research-driven serverless platform. It is made from scratch, written in Elixir and Rust and a CLI tool in Go, with WebAssembly runtimes. 
 
-A new FaaS solution made from scratch, written in Elixir and Rust and a CLI tool in Go. 
 It was born from two PhD students working in the Cloud/Serverless field as a learning experience and an opportunity to try the latest technologies.
 
 It combines the power of the BEAM and its actor programming model with the speed of Rust and WebAssembly to run functions in a cluster, resulting in a super scalable, super fast serverless.
 
-We aim to make it really easy to deploy and use the platform over a number of solutions such as Kubernetes, Nomad and standalone deployments, 
-all through simple commands of our CLI.
+We aim to make it really easy to deploy and use the platform over a number of solutions such as Kubernetes, Nomad and standalone deployments. All through simple commands in our CLI.
 
-To try it out, visit [funless.dev](https://funless.dev) (TBD).
+To try it out, visit [funless.dev](https://funless.dev).
 
 We are just getting started and any contribution is welcome 😄
 
